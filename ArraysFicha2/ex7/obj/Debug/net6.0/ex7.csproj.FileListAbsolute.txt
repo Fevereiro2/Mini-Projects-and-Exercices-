@@ -1,0 +1,16 @@
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ArraysFicha2\ex7\bin\Debug\net6.0\ex7.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ArraysFicha2\ex7\bin\Debug\net6.0\ex7.deps.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ArraysFicha2\ex7\bin\Debug\net6.0\ex7.runtimeconfig.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ArraysFicha2\ex7\bin\Debug\net6.0\ex7.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ArraysFicha2\ex7\bin\Debug\net6.0\ref\ex7.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ArraysFicha2\ex7\bin\Debug\net6.0\ex7.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ArraysFicha2\ex7\obj\Debug\net6.0\ex7.GlobalUsings.g.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ArraysFicha2\ex7\obj\Debug\net6.0\ex7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ArraysFicha2\ex7\obj\Debug\net6.0\ex7.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ArraysFicha2\ex7\obj\Debug\net6.0\ex7.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ArraysFicha2\ex7\obj\Debug\net6.0\ex7.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ArraysFicha2\ex7\obj\Debug\net6.0\ex7.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ArraysFicha2\ex7\obj\Debug\net6.0\ref\ex7.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ArraysFicha2\ex7\obj\Debug\net6.0\ex7.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ArraysFicha2\ex7\obj\Debug\net6.0\ex7.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ArraysFicha2\ex7\obj\Debug\net6.0\ex7.csproj.AssemblyReference.cache

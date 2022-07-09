@@ -1,0 +1,11 @@
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\cartãodoaluno\cartãodoaluno\bin\Debug\cartãodoaluno.exe.config
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\cartãodoaluno\cartãodoaluno\bin\Debug\cartãodoaluno.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\cartãodoaluno\cartãodoaluno\bin\Debug\cartãodoaluno.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\cartãodoaluno\cartãodoaluno\obj\Debug\cartãodoaluno.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\cartãodoaluno\cartãodoaluno\obj\Debug\cartãodoaluno.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\cartãodoaluno\cartãodoaluno\obj\Debug\cartãodoaluno.Form1.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\cartãodoaluno\cartãodoaluno\obj\Debug\cartãodoaluno.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\cartãodoaluno\cartãodoaluno\obj\Debug\cartãodoaluno.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\cartãodoaluno\cartãodoaluno\obj\Debug\cartãodoaluno.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\cartãodoaluno\cartãodoaluno\obj\Debug\cartãodoaluno.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\cartãodoaluno\cartãodoaluno\obj\Debug\cartãodoaluno.pdb

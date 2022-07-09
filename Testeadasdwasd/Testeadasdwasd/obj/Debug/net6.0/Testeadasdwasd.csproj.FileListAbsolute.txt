@@ -1,0 +1,16 @@
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Testeadasdwasd\Testeadasdwasd\bin\Debug\net6.0\Testeadasdwasd.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Testeadasdwasd\Testeadasdwasd\bin\Debug\net6.0\Testeadasdwasd.deps.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Testeadasdwasd\Testeadasdwasd\bin\Debug\net6.0\Testeadasdwasd.runtimeconfig.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Testeadasdwasd\Testeadasdwasd\bin\Debug\net6.0\Testeadasdwasd.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Testeadasdwasd\Testeadasdwasd\bin\Debug\net6.0\ref\Testeadasdwasd.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Testeadasdwasd\Testeadasdwasd\bin\Debug\net6.0\Testeadasdwasd.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Testeadasdwasd\Testeadasdwasd\obj\Debug\net6.0\Testeadasdwasd.GlobalUsings.g.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Testeadasdwasd\Testeadasdwasd\obj\Debug\net6.0\Testeadasdwasd.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Testeadasdwasd\Testeadasdwasd\obj\Debug\net6.0\Testeadasdwasd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Testeadasdwasd\Testeadasdwasd\obj\Debug\net6.0\Testeadasdwasd.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Testeadasdwasd\Testeadasdwasd\obj\Debug\net6.0\Testeadasdwasd.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Testeadasdwasd\Testeadasdwasd\obj\Debug\net6.0\Testeadasdwasd.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Testeadasdwasd\Testeadasdwasd\obj\Debug\net6.0\Testeadasdwasd.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Testeadasdwasd\Testeadasdwasd\obj\Debug\net6.0\ref\Testeadasdwasd.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Testeadasdwasd\Testeadasdwasd\obj\Debug\net6.0\Testeadasdwasd.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Testeadasdwasd\Testeadasdwasd\obj\Debug\net6.0\Testeadasdwasd.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Teste12\Teste12\bin\Debug\net6.0\Teste12.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Teste12\Teste12\bin\Debug\net6.0\Teste12.deps.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Teste12\Teste12\bin\Debug\net6.0\Teste12.runtimeconfig.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Teste12\Teste12\bin\Debug\net6.0\Teste12.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Teste12\Teste12\bin\Debug\net6.0\ref\Teste12.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Teste12\Teste12\bin\Debug\net6.0\Teste12.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Teste12\Teste12\obj\Debug\net6.0\Teste12.GlobalUsings.g.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Teste12\Teste12\obj\Debug\net6.0\Teste12.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Teste12\Teste12\obj\Debug\net6.0\Teste12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Teste12\Teste12\obj\Debug\net6.0\Teste12.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Teste12\Teste12\obj\Debug\net6.0\Teste12.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Teste12\Teste12\obj\Debug\net6.0\Teste12.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Teste12\Teste12\obj\Debug\net6.0\Teste12.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Teste12\Teste12\obj\Debug\net6.0\ref\Teste12.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Teste12\Teste12\obj\Debug\net6.0\Teste12.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\Teste12\Teste12\obj\Debug\net6.0\Teste12.genruntimeconfig.cache
